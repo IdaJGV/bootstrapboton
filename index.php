@@ -7,11 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="VistaEstudiante.php">Ir a Vista Estudiante</a>
+    <a href="VistaEstudiante.php">Ir al formulario</a>
 
 
 
-    <p>Dany Miranda....Prueba de Sincronización</p>
+    
 
     
 
